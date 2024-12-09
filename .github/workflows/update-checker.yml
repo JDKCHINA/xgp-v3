@@ -14,7 +14,7 @@ name: Update Checker
 
 env:
   REPO_URL: https://github.com/JDKCHINA/lede
-  REPO_BRANCH: rk356x-xgp_support
+  REPO_BRANCH: patch-1
 
 on:
   workflow_dispatch:
